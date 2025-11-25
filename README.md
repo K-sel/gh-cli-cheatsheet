@@ -1,5 +1,7 @@
 # gh-cli Cheatsheet
 
+https://cli.github.com/manual/
+
 ## Login / Logout
 ```bash
 gh auth login
